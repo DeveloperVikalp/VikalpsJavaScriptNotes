@@ -1,0 +1,65 @@
+p {
+    color:aliceblue;
+    width: 500px;
+    border: 1px solid black;
+    background-color: #1F8A70;
+  }
+h1{
+    font-size: 50px;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+} 
+h3{
+  font-size: 50px;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #ed0575;
+    text-shadow: 2px 1px 0.2px  rgb(34, 20, 34);
+} 
+
+
+
+  
+  p,
+  li {
+    font-family:'Delius', cursive;;
+
+    font-size: 19px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #95BDFF;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rgb(25, 44, 20);
+    
+  }
+  #fnUplogo {
+    width:260px;
+    height:90px;
+    border: 5px solid white;
+    
+  }
+  .logo{
+    padding: 0px;
+    width: 300px;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #EFA3C8;
+    text-shadow: 5px 5px 5px rgb(34, 20, 34);
+  }
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #DFFFD8;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+  }
+      
